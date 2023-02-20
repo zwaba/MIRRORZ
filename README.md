@@ -23,3 +23,5 @@ Dry/wet obvious
 Filter   0 → -100 Low pass , 0 → 100 High pass
 
 Speed   0.5 = half speed, 1 octave down  1= normal speed     2= double speed, 1 octave up
+
+Build with Max Gen~
