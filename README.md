@@ -1,5 +1,5 @@
 # MIRRORZ
-Plugin Lv2 , allows you to play backward the last chords/ melody you just played
+Plugin lv2 
 
 Audio IN is permanently recorded in a 32 seconds buffer (normal speed)
 the TRIGGER function of MIRRORZ allows you to play backward the last chords/ melody you just played, same for the LOOP function but looped.
