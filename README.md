@@ -1,5 +1,5 @@
 # MIRRORZ
-Plugin lv2 
+Plugin lv2   build with Max Gen~   for the Mod Dwarf
 
 Audio IN is permanently recorded in a 32 seconds buffer (normal speed)
 the TRIGGER function of MIRRORZ allows you to play backward the last chords/ melody you just played, same for the LOOP function but looped.
@@ -24,4 +24,4 @@ Filter   0 → -100 Low pass , 0 → 100 High pass
 
 Speed   0.5 = half speed, 1 octave down  1= normal speed     2= double speed, 1 octave up
 
-Build with Max Gen~
+
