@@ -25,3 +25,19 @@ Filter   0 → -100 Low pass , 0 → 100 High pass
 Speed selector   0.5 = half speed, 1 octave down  1= normal speed     2= double speed, 1 octave up
 
 Env   envelope applied to the sound loop to avoid clicks
+
+--------------
+
+—————————
+
+Mod devices installation
+
+- Copy the MIRRORZ.lv2 folder to your Mod:
+  
+ ```
+scp -rp <path to MIRRORZ.lv2> root@192.168.51.1:/root/.lv2
+ ```
+
+- Enter password "mod"
+- Reboot Mod
+
