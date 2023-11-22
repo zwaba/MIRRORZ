@@ -21,3 +21,4 @@
 <urn:maxgen:MIRRORZ> <http://moddevices.com/ns/mod#builderVersion> 1 .
 <urn:maxgen:MIRRORZ> <http://moddevices.com/ns/mod#buildId> 1334 .
 <urn:maxgen:MIRRORZ> <http://moddevices.com/ns/mod#buildEnvironment> "maxgen" .
+<urn:maxgen:MIRRORZ> rdfs:seeAlso <modgui.ttl> .

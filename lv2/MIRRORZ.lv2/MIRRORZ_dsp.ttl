@@ -129,10 +129,16 @@
     ] ;
 
     rdfs:comment """
-This plugin was automatically generated, based on a Max gen~ project file.
+The TRIGGER function of MIRRORZ allows you to play backward the last chords/melody you just played, same for the LOOP function but looped.
+
+Pressing TRIGGER (momentary ON ) start reading audio backward from the last sampled position within the data/buffer, releasing TRIGGER stop reading audio.
+
+Pressing LOOP (momentary ON ) reads audio backward from the last sampled position within the data/buffer, releasing "LOOP" loop the buffer segment just read.
+
+Pressing TRIGGER stop the loop (if you keep TRIGGER pressed, it reads audio backward from the last sampled position within the data/buffer)
 """ ;
 
-    mod:brand "Max gen~" ;
+    mod:brand "Zwabo" ;
     mod:label "MIRRORZ" ;
 
     doap:name "MIRRORZ" ;
@@ -144,5 +150,5 @@ This plugin was automatically generated, based on a Max gen~ project file.
     ] ;
 
     lv2:microVersion 0 ;
-    lv2:minorVersion 0 .
+    lv2:minorVersion 2 .
 
