@@ -9,11 +9,11 @@
 .mod-pedal-boxy{{{cns}}} {
     background-position:center center;
     background-repeat:no-repeat;
-    background-size:230px 431px;
-    height:431px;
+    background-size:230px 434px;
+    height:434px;
     position:absolute;
     width:230px;
-    border-radius: 21px;
+    border-radius: 8px;
 }
 
 .mod-pedal-boxy{{{cns}}}.mod-boxy50 {
@@ -23,17 +23,17 @@
 }
 
 .mod-pedal-boxy{{{cns}}}.mod-boxy75 {
-    background-size:326px 431px;
+    background-size:326px 434px;
     width:326px;
 }
 
 .mod-pedal-boxy{{{cns}}}.mod-boxy85 {
-    background-size:364px 431px;
+    background-size:364px 434px;
     width:364px;
 }
 
 .mod-pedal-boxy{{{cns}}}.mod-boxy100 {
-    background-size:421px 431px;
+    background-size:421px 434px;
     width:421px;
 }
 
@@ -53,17 +53,13 @@
     right:0;
     text-align:center;
     text-transform:uppercase;
-    top:160px;
+    top:340px;
 }
 
 .mod-pedal-boxy{{{cns}}} .mod-plugin-brand h1 {
-    border-color:#000;
-    border-radius:12px;
-    border-style:solid;
-    border-width:4px;
-    display:inline-block;
+  
     font-family:"Nexa";
-    font-size:32px;
+    font-size:22px;
     padding:3px 9px 0;
 }
 
@@ -91,12 +87,17 @@
     position:absolute;
     right:30px;
     text-align:center;
-    top:340px;
+    top:160px;
 }
 
 .mod-pedal-boxy{{{cns}}} .mod-plugin-name h1 {
-    font-family:"Questrial";
-    font-size:21px;
+     border-color:#000;
+    border-radius:12px;
+    border-style:solid;
+    border-width:6px;
+    display:inline-block;
+   font-family:"Questrial";
+    font-size:31px;
     line-height:1;
 }
 
