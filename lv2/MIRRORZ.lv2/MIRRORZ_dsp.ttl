@@ -136,6 +136,14 @@ Pressing TRIGGER (momentary ON ) start reading audio backward from the last samp
 Pressing LOOP (momentary ON ) reads audio backward from the last sampled position within the data/buffer, releasing "LOOP" loop the buffer segment just read.
 
 Pressing TRIGGER stop the loop (if you keep TRIGGER pressed, it reads audio backward from the last sampled position within the data/buffer)
+
+Dry/wet obvious
+
+Filter 0 → -100 Low pass , 0 → 100 High pass
+
+Speed selector 0.5 = half speed, 1 octave down 1= normal speed 2= double speed, 1 octave up
+
+Env envelope applied to the sound loop to avoid clicks
 """ ;
 
     mod:brand "Zwabo" ;
